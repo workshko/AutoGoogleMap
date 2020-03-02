@@ -1,0 +1,12 @@
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Release\WebDriver.dll
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Release\WebDriver.xml
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Release\AutoGoogleMap.mainForm.resources
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Release\AutoGoogleMap.Properties.Resources.resources
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Release\AutoGoogleMap.csproj.GenerateResource.Cache
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Release\SEO최적화 프로그램.exe.config
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Release\SEO최적화 프로그램.exe
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Release\SEO최적화 프로그램.pdb
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Release\SEO최적화 프로그램.exe
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Release\SEO최적화 프로그램.pdb
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Release\TestFiles\테스트파일.txt
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Release\AutoGoogleMap.csprojResolveAssemblyReference.cache

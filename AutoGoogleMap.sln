@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoGoogleMap", "AutoGoogleMap\AutoGoogleMap.csproj", "{9CBC460E-C2CF-45BA-BA14-681A8053095F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CBC460E-C2CF-45BA-BA14-681A8053095F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBC460E-C2CF-45BA-BA14-681A8053095F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{9CBC460E-C2CF-45BA-BA14-681A8053095F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CBC460E-C2CF-45BA-BA14-681A8053095F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C797D36C-1946-4926-95DF-3CE8E326FDC4}
+	EndGlobalSection
+EndGlobal

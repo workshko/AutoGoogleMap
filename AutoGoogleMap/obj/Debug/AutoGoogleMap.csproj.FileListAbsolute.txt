@@ -1,0 +1,11 @@
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Debug\AutoGoogleMap.exe.config
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Debug\AutoGoogleMap.exe
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Debug\AutoGoogleMap.pdb
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Debug\AutoGoogleMap.Properties.Resources.resources
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Debug\AutoGoogleMap.csproj.GenerateResource.cache
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Debug\AutoGoogleMap.exe
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Debug\AutoGoogleMap.pdb
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Debug\WebDriver.dll
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\bin\Debug\WebDriver.xml
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Debug\AutoGoogleMap.csprojResolveAssemblyReference.cache
+C:\Users\SHKO\Desktop\MyProject\AutoGoogleMap\AutoGoogleMap\obj\Debug\AutoGoogleMap.mainForm.resources
